@@ -1,4 +1,4 @@
-# Finance-Test-Task
+# Finance-Test-Task Perebeynos D.S.
 
 Implemented bonus functionality: <br/>
 1)The possibility to switch on/off tickers by user<br/>
